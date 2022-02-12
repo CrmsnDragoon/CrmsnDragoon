@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi!
+Pronouns: He/Him
+
+Gamedev, currently working on console games
+
+Currently learning Rust in my spare time.
 
 <!--
 **CrmsnDragoon/CrmsnDragoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
